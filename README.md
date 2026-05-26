@@ -9,6 +9,7 @@ This repository contains a simple web page for the WBL Corner project. Below are
 </p>
 
 Description: A minimal README showing the NIELIT and WBL logos for this web page.
+Built by WBL Cohort 8.
 # WBL Cohort 8 Site
 
 Static one-page site for WBL Cohort 8 built from the official WBL/AICTE references and the provided intern assets.
@@ -24,10 +25,4 @@ Static one-page site for WBL Cohort 8 built from the official WBL/AICTE referenc
 ## Local use
 
 Open `index.html` directly in a browser, or serve the folder with any static server.
-
-## Netlify deployment
-
-1. Create a new site from Git or drag-and-drop this folder into Netlify.
-2. Set the publish directory to the project root.
-3. No build command is required because this is a static site.
 
